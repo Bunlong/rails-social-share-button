@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = RailsSocialShareButton::VERSION
   spec.authors       = ["Bunlong"]
   spec.email         = ["bunlong.van@gmail.com"]
-  spec.summary       = %q{rails-social-share-button is one of the best rails helper gem​ to add social share buttons in your Rails app. Include Twitter, Facebook, Weibo, Douban, QQ, Tumblr...}
-  spec.description   = %q{rails-social-share-button is one of the best rails helper gem​ to add social share buttons in your Rails app. Include Twitter, Facebook, Weibo, Douban, QQ, Tumblr...}
+  spec.summary       = %q{rails-social-share-button is one of the best rails helper gem​ to add social share feature in your Rails app. Include Twitter, Facebook, Weibo, Douban, QQ, Tumblr...}
+  spec.description   = %q{rails-social-share-button is one of the best rails helper gem​ to add social share feature in your Rails app. Include Twitter, Facebook, Weibo, Douban, QQ, Tumblr...}
   spec.homepage      = "https://github.com/Bunlong/rails-social-share-button"
   spec.license       = "MIT"
 
