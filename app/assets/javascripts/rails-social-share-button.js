@@ -58,9 +58,6 @@
         case "qq":
           RailsSocialShareButton.openUrl("http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=" + url + "&title=" + title + "&pics=" + img + "&summary=" + desc + "&site=" + appkey);
           break;
-        case "google_plus":
-          RailsSocialShareButton.openUrl("https://plus.google.com/share?url=" + url);
-          break;
         case "google_bookmark":
           RailsSocialShareButton.openUrl("https://www.google.com/bookmarks/mark?op=edit&output=popup&bkmk=" + url + "&title=" + title);
           break;
