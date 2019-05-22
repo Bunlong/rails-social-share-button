@@ -1,12 +1,12 @@
 module RailsSocialShareButton
   module Helper
-    def social_share_button_tag(title = "", opts = {})
+    def rails_social_share_button_tag(title = "", opts = {})
       opts[:allow_sites] ||= RailsSocialShareButton.config.allow_sites
 
       extra_data = {}
       rel = opts[:rel]
       html = []
-      html << "<div class='social-share-button' data-title='#{h title}' data-img='#{opts[:image]}'"
+      html << "<div class='rails-social-share-button' data-title='#{h title}' data-img='#{opts[:image]}'"
       html << "data-url='#{opts[:url]}' data-desc='#{opts[:desc]}' data-via='#{opts[:via]}'>"
 
       opts[:allow_sites].each do |name|

@@ -142,5 +142,4 @@
       return false;
     }
   };
-
 }).call(this);
