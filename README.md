@@ -2,6 +2,8 @@
 
 rails-social-share-button is one of the best rails helper gem​ to add social share feature in your Rails app. Include Twitter, Facebook, Weibo, Douban, QQ, Tumblr...
 
+![rails-social-share-button](./rails-social-share-button.png)
+
 ## Installation
 
 Add this line to your application's Gemfile:
