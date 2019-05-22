@@ -7,8 +7,7 @@ module RailsSocialShareButton
   end
 
   class Config
-    # enable social sites to share,
-    # * site support:
+    # enable social sites to share, site support:
     # - twitter
     # - facebook
     # - weibo

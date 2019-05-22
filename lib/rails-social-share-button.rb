@@ -1,4 +1,3 @@
-require "rails"
 require "rails_social_share_button/version"
 require "rails_social_share_button/config"
 require "rails_social_share_button/helper"
